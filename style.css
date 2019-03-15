@@ -1,0 +1,105 @@
+
+
+header{
+	padding-top: 5px;
+
+}
+
+hr{
+color:#00ffff;
+
+}
+
+.box-container{
+width:100%;
+height: 100%;
+background-color: #D3D3D3;
+
+}
+
+.container{
+
+width:70%;
+margin-left: 200px;
+margin-top: 50px;
+margin-bottom: 5px;
+margin-right: 50px;
+
+background-color:#FFFFFF; 
+
+
+}
+
+.rightdiv {
+  float:right;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 30%;
+  height:100%;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+
+}
+
+.leftdiv{
+  float:left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+
+}
+
+.cellphone{
+  color:#FFFFFF;
+  background-color:#000000;
+  font-size: 20px;
+
+}
+
+.web{
+  color:#FFFFFF;
+  background-color:#4286f4;
+  font-size: 20px;
+
+}
+
+.email{
+  color:#FFFFFF;
+  background-color:#00ffff;
+  font-size: 20px;
+
+}
+.h2style{
+  padding-left: 500px;
+
+}
+
+.h4style{
+  padding-left: 500px;
+  color:aqua;
+
+}
+
+.nexth4{
+  padding-left: 500px;
+  color:#d5d5c3;
+}
+.img{
+  float:left;
+  padding-left: 20px;
+}
+.pstyle{
+  text-align: left;
+  padding-left: 30px;
+}
+
+.skills{
+padding-top: 50px;
+padding-bottom: 50px;
+
+}
+
+
+ 
